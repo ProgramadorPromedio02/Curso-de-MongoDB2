@@ -1,0 +1,5 @@
+¿Qué es MongoDB?
+----------------
+
+MongoDB es gestor de bases de datos No Relacionales (NoSQL) de código abierto. Una base de datos orientada a documentos y colecciones.
+
